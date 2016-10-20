@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScalaGradleOnAS</string>
+    <string name="scalaclick">go javaactivity</string>
+    <string name="javaclick">go scalaactivity</string>
+</resources>
